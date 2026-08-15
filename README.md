@@ -1,4 +1,4 @@
-# PoC — Inferência Geográfica por Canal Lateral em LLMs
+Inferência Geográfica por Canal Lateral em LLMs
 
 ## Objetivo
 
